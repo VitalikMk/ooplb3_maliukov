@@ -1,0 +1,14 @@
+D:\OOP Lb\ooplb3_maliukov\ooplb3_part2\ooplb3_part2\obj\Debug\net6.0\ooplb3_part2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP Lb\ooplb3_maliukov\ooplb3_part2\ooplb3_part2\obj\Debug\net6.0\ooplb3_part2.AssemblyInfoInputs.cache
+D:\OOP Lb\ooplb3_maliukov\ooplb3_part2\ooplb3_part2\obj\Debug\net6.0\ooplb3_part2.AssemblyInfo.cs
+D:\OOP Lb\ooplb3_maliukov\ooplb3_part2\ooplb3_part2\obj\Debug\net6.0\ooplb3_part2.csproj.CoreCompileInputs.cache
+D:\OOP Lb\ooplb3_maliukov\ooplb3_part2\ooplb3_part2\bin\Debug\net6.0\ooplb3_part2.exe
+D:\OOP Lb\ooplb3_maliukov\ooplb3_part2\ooplb3_part2\bin\Debug\net6.0\ooplb3_part2.deps.json
+D:\OOP Lb\ooplb3_maliukov\ooplb3_part2\ooplb3_part2\bin\Debug\net6.0\ooplb3_part2.runtimeconfig.json
+D:\OOP Lb\ooplb3_maliukov\ooplb3_part2\ooplb3_part2\bin\Debug\net6.0\ooplb3_part2.dll
+D:\OOP Lb\ooplb3_maliukov\ooplb3_part2\ooplb3_part2\bin\Debug\net6.0\ooplb3_part2.pdb
+D:\OOP Lb\ooplb3_maliukov\ooplb3_part2\ooplb3_part2\obj\Debug\net6.0\ooplb3_part2.dll
+D:\OOP Lb\ooplb3_maliukov\ooplb3_part2\ooplb3_part2\obj\Debug\net6.0\refint\ooplb3_part2.dll
+D:\OOP Lb\ooplb3_maliukov\ooplb3_part2\ooplb3_part2\obj\Debug\net6.0\ooplb3_part2.pdb
+D:\OOP Lb\ooplb3_maliukov\ooplb3_part2\ooplb3_part2\obj\Debug\net6.0\ooplb3_part2.genruntimeconfig.cache
+D:\OOP Lb\ooplb3_maliukov\ooplb3_part2\ooplb3_part2\obj\Debug\net6.0\ref\ooplb3_part2.dll
